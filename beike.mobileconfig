@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.bkczs.app.webclip</string>
+            <key>PayloadUUID</key>
+            <string>8E6C7B1A-3D4F-4B2B-9E2A-6B1C4D5E7F80</string>
+            <key>PayloadDisplayName</key>
+            <string>北柯成长社</string>
+            <key>PayloadDescription</key>
+            <string>北柯成长社 Web App</string>
+            <key>Label</key>
+            <string>北柯成长社</string>
+            <key>URL</key>
+            <string>https://chengzhang.bkwzk.top/</string>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Precomposed</key>
+            <false/>
+            <key>IconURL</key>
+            <string>https://chengzhang.bkwzk.top/ico.png</string>
+        </dict>
+    </array>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadIdentifier</key>
+    <string>com.bkczs.app</string>
+    <key>PayloadUUID</key>
+    <string>F7A9C3D2-5E6B-4A1C-8D9E-0B2C3D4E5F60</string>
+    <key>PayloadDisplayName</key>
+    <string>北柯成长社</string>
+    <key>PayloadDescription</key>
+    <string>安装北柯成长社到主屏幕</string>
+    <key>PayloadOrganization</key>
+    <string>北柯成长社</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+</dict>
+</plist>
