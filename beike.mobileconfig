@@ -15,7 +15,7 @@
             <string>com.bkczs.app.webclip</string>
 
             <key>PayloadUUID</key>
-            <string>BADDEBFA-0505-2026-0001-123456789012</string>
+            <string>BADDEBFA-2026-0505-0001-123456789012</string>
 
             <key>PayloadDisplayName</key>
             <string>北柯成长社</string>
@@ -37,6 +37,9 @@
 
             <key>Precomposed</key>
             <false/>
+
+            <key>IconURL</key>
+            <string>https://chengzhang.bkwzk.top/ico.png</string>
         </dict>
     </array>
 
@@ -50,7 +53,7 @@
     <string>com.bkczs.app</string>
 
     <key>PayloadUUID</key>
-    <string>BADDEBFA-0505-2026-0000-123456789012</string>
+    <string>BADDEBFA-2026-0505-0000-123456789012</string>
 
     <key>PayloadDisplayName</key>
     <string>北柯成长社</string>
